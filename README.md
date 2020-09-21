@@ -1,15 +1,5 @@
-<h1 align="center">Python Codewars Problems</h1>
+<h1 align="center">Codewars Problems</h1>
 
 
 #### Description
-Many people have recommended that I try out Codewars and play around with their challenges, and so I'm just storing my solutions here. New account, working my way up using the recommended tasks, so the first couple are very easy. These aren't optimal solutions by any means, I am just messing around and having some fun with these as I go. 
-
-#### Stats:
-**Last Updated:** 16-09-2020
-
-**Rank:** 7kyu
-
-**Honour:** 72
-
-**Tasks Done:** 9
-
+Just a save of my solutions to codewars problems. It's a good way to practice coding in my spare time and not have to go all out on a project. Also keeping them for refrence somewhere so if I ever run into a similar problem in the real world I have some reference material. Don't expect anything fancy from this, it's just basic code wars…
